@@ -459,3 +459,6 @@
   font-weight: 400;
   src: url(fonts/UNIQAGalano-Regular.woff);
 }
+.card:not(:first-child) {
+  display: none;
+}

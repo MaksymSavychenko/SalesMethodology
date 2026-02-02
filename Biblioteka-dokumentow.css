@@ -462,3 +462,6 @@
 .u-layout-row > .u-layout-cell:not(:first-child) {
   display: none;
 }
+.u-layout-cell-2 {
+  display: none;
+}

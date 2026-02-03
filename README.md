@@ -1,2 +1,2 @@
 # SalesMethodology
-SME SalesMethodology for insurance intermediaries
+SME SalesMethodology for insurance   intermediaries

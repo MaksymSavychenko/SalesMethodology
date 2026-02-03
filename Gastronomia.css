@@ -6752,3 +6752,7 @@
 .u-section-7 {
   min-height: auto;
 }
+/* Менший відступ після блоку "Збитки в галузі" (section id="sec-c855") */
+#sec-c855 {
+  padding-bottom: 24px !important;
+}

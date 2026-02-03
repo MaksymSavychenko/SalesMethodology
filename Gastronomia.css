@@ -6748,3 +6748,7 @@
   font-weight: 400;
   src: url(fonts/UNIQAGalano-Regular.woff);
 }
+/* прибираємо зайвий вертикальний простір між секціями */
+.u-section-7 {
+  min-height: auto;
+}
